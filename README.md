@@ -1,2 +1,2 @@
-# paper-manager
-Paper Mananger ... order in your paper war.
+# page-manager
+... order in your paper war.
