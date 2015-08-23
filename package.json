@@ -1,0 +1,32 @@
+{
+	"name": "page-manager",
+	"version": "0.1.0",
+	"description": "Page Manager ... order in your paper war.",
+	"author": "Endre Bock <dev@itbock.de>",
+	"main": "src/main.js",
+	"scripts": {
+		"test": "mocha tests/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/enbock/pager-manager"
+	},
+	"bugs": {
+		"url": "https://github.com/enbock/pager-manager/issues"
+	},
+	"keywords": [
+		"enbock",
+		"paper",
+		"manager"
+	],
+	"dependencies": {
+		"corejs-w3c": "*"
+	},
+	"devDependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "sinon": "*",
+        "sinon-chai": "*"
+	},
+	"license": "GPL3"
+}
