@@ -1,0 +1,13 @@
+{
+	"services": {
+		"boot.cleaner": {
+			"class": "CoreJs.Bootstrap.HeadCleaner",
+			"arguments": [
+				"$document.head"
+			]
+		},
+		"main": {
+			"class": "PageManager.Main"
+		}
+	}
+}
